@@ -41,11 +41,11 @@ hideServersChannels.prototype.observer = function (e) {
 };
 
 hideServersChannels.prototype.getSettingsPanel = function () {
-    return "<h3>Settings Panel</h3>";
+
 };
 
 hideServersChannels.prototype.getName = function () {
-    return "hideServersChannels";
+    return "Hide Servers and Channels";
 };
 
 hideServersChannels.prototype.getDescription = function () {
